@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sshradamanthys
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning JavaScript, React, Python(Data Analysis)
-- 💞️ I’m looking to collaborate on Web development and Data Analysis
+- 🌱 I’m currently learning JavaScript, React, Python
+- 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me ...this way
 
 <!---
